@@ -1,0 +1,16 @@
+Where to Download Python
+
+=== Python Installation File ===
+
+- Windows - 
+https://www.python.org/downloads/windows/
+
+- MaC Os- 
+https://www.python.org/downloads/mac-osx/
+
+- Other Operating Systems -
+https://www.python.org/download/other/
+
+References
+https://www.python.org/
+https://www.howtogeek.com/197947/how-to-install-python-on-windows/

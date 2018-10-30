@@ -1,0 +1,16 @@
+Where to Download R studio
+
+=== Step 1: Download R Studio ===
+
+Installation file
+https://www.rstudio.com/products/rstudio/download/
+
+
+=== Step 2: Download R basic  ===
+
+Installation file
+https://cran.rstudio.com/bin/windows/base/R-3.5.0-win.exe
+
+Reference
+https://cran.rstudio.com/
+
